@@ -1,4 +1,8 @@
-# Angular QuickStart Source
+# Angular QuickStart Source - Spotify API (Developed by Kaveendra)
+For this appication Spotify API is used to grab the artists from Spotify Database. 
+*node_modules are not incluced here, to download node_modules type below command with the location of this folder. 
+-> npm install
+
 [![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
